@@ -2,7 +2,7 @@
 
 This is Tailor's Ruby Style Guide.
 
-It was inspired by [Github's guide][github-ruby] and [Bozhidar Batsov's guide][bbatsov-ruby] and [AirBnB's guide][airbnb-ruby].
+It was inspired by [Github's guide][github-ruby] and [Bozhidar Batsov's guide][bbatsov-ruby] and [Airbnb's guide][airbnb-ruby].
 
 ## Table of Contents
   1.  [Whitespace](#whitespace)
