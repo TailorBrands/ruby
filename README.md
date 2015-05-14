@@ -1,10 +1,8 @@
 # Ruby Style Guide
 
-This is Airbnb's Ruby Style Guide.
+This is Tailor's Ruby Style Guide.
 
-It was inspired by [Github's guide][github-ruby] and [Bozhidar Batsov's guide][bbatsov-ruby].
-
-Airbnb also maintains a [JavaScript Style Guide][airbnb-javascript].
+It was inspired by [Github's guide][github-ruby] and [Bozhidar Batsov's guide][bbatsov-ruby] and [AirBnB's guide][airbnb-ruby].
 
 ## Table of Contents
   1.  [Whitespace](#whitespace)
@@ -152,14 +150,14 @@ Airbnb also maintains a [JavaScript Style Guide][airbnb-javascript].
 ## Line Length
 
 Keep each line of code to a readable length. Unless you have a reason
-to, keep lines to fewer than 100 characters. Keeping code visually
-grouped together (as a 100-character line limit enforces) makes it
+to, keep lines to fewer than 120 characters. Keeping code visually
+grouped together (as a 120-character line limit enforces) makes it
 easier to understand. For example, you don't have to scroll back and
 forth on one line to see what's going on -- you can view it all
 together.
 
 Here are examples from our codebase showing several techniques for
-breaking complex statements into multiple lines that are all < 100
+breaking complex statements into multiple lines that are all < 120
 characters. Notice techniques like:
 
 * liberal use of linebreaks inside unclosed `(` `{` `[`
@@ -1127,7 +1125,7 @@ in inheritance.
 
 &mdash;[Google C++ Style Guide][google-c++]
 
-[airbnb-javascript]: https://github.com/airbnb/javascript
+[airbnb-ruby]: https://github.com/airbnb/ruby
 [bbatsov-ruby]: https://github.com/bbatsov/ruby-style-guide
 [github-ruby]: https://github.com/styleguide/ruby
 [google-c++]: http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
